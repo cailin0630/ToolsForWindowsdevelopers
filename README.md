@@ -1,10 +1,10 @@
 ToolsForWindowsdevelopers
 
-[CodeMaid](http://blog.csdn.net/guodongxiaren "CodeMaid")
+[CodeMaid](http://www.codemaid.net/ "CodeMaid")
 --
-[DB.Browser.for.SQLite](http://blog.csdn.net/guodongxiaren "DB.Browser.for.SQLite")
+[DB.Browser.for.SQLite](http://sqlitebrowser.org/ "DB.Browser.for.SQLite")
 --
-[EveryThing](http://blog.csdn.net/guodongxiaren "EveryThing")
+[EveryThing](http://www.voidtools.com/ "EveryThing")
 --
 [TortoiseGit](http://blog.csdn.net/guodongxiaren "TortoiseGit")
 --
