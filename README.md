@@ -1,8 +1,8 @@
 ToolsForWindowsdevelopers
 ==
-CodeMaid
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+
+[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客]
+
 --
 DB.Browser.for.SQLite
 --
