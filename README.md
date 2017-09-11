@@ -6,13 +6,13 @@ ToolsForWindowsdevelopers
 --
 [EveryThing](http://www.voidtools.com/ "EveryThing")
 --
-[TortoiseGit](http://blog.csdn.net/guodongxiaren "TortoiseGit")
+[TortoiseGit](https://tortoisegit.org/download/ "TortoiseGit")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
+[TortoiseGit-LanguagePack](https://tortoisegit.org/download/ "TortoiseGit-LanguagePack")
 --
-[Git-For-Windows](http://blog.csdn.net/guodongxiaren "Git-For-Windows")
+[Git-For-Windows](https://git-for-windows.github.io/ "Git-For-Windows")
 --
-[mongodb-compass](http://blog.csdn.net/guodongxiaren "mongodb-compass")
+[mongodb-compass](https://www.mongodb.com/products/compass "mongodb-compass")
 --
 [navicat110_mysql](http://blog.csdn.net/guodongxiaren "navicat110_mysql")
 --
