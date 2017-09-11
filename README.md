@@ -14,25 +14,25 @@ ToolsForWindowsdevelopers
 --
 [mongodb-compass](https://www.mongodb.com/products/compass "mongodb-compass")
 --
-[navicat110_mysql](http://blog.csdn.net/guodongxiaren "navicat110_mysql")
+[navicat110_mysql](https://www.navicat.com/en/download/navicat-for-mysql "navicat110_mysql")
 --
-[node.js](http://blog.csdn.net/guodongxiaren "node.js")
+[node.js](http://nodejs.cn/ "node.js")
 --
-[Nuget](http://blog.csdn.net/guodongxiaren "Nuget")
+[Nuget](https://www.nuget.org/ "Nuget")
 --
-[PostSharp](http://blog.csdn.net/guodongxiaren "PostSharp")
+[PostSharp](https://www.postsharp.net/ "PostSharp")
 --
-[redis-setup](http://blog.csdn.net/guodongxiaren "redis-setup")
+[redis-setup](https://redis.io/ "redis-setup")
 --
-[redis-desktop-manager](http://blog.csdn.net/guodongxiaren "redis-desktop-manager")
+[redis-desktop-manager](https://redisdesktop.com/ "redis-desktop-manager")
 --
-[JetBrains.ReSharperUltimate](http://blog.csdn.net/guodongxiaren "JetBrains.ReSharperUltimate")
+[JetBrains.ReSharperUltimate](https://www.jetbrains.com/dotnet/ "JetBrains.ReSharperUltimate")
 --
-[SublimeText-Nodejs](http://blog.csdn.net/guodongxiaren "SublimeText-Nodejs")
+[SublimeText](https://www.sublimetext.com/ "SublimeText")
 --
-[essentialqtpaddonsetup](http://blog.csdn.net/guodongxiaren "essentialqtpaddonsetup")
+[essentialqtpaddonsetup](https://www.syncfusion.com/ "essentialqtpaddonsetup")
 --
-[syncfusionmetrostudiosetup](http://blog.csdn.net/guodongxiaren "syncfusionmetrostudiosetup")
+[syncfusionmetrostudiosetup](https://www.syncfusion.com/ "syncfusionmetrostudiosetup")
 --
-[VSCodeSetup](http://blog.csdn.net/guodongxiaren "VSCodeSetup")
+[VSCodeSetup](https://code.visualstudio.com/ "VSCodeSetup")
 --
