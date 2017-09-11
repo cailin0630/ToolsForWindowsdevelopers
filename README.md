@@ -10,42 +10,29 @@ ToolsForWindowsdevelopers
 --
 [TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-Git-For-Windows
+[Git-For-Windows](http://blog.csdn.net/guodongxiaren "Git-For-Windows")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-mongodb-compass
+[mongodb-compass](http://blog.csdn.net/guodongxiaren "mongodb-compass")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-navicat110_mysql
+[navicat110_mysql](http://blog.csdn.net/guodongxiaren "navicat110_mysql")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-node.js
+[node.js](http://blog.csdn.net/guodongxiaren "node.js")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-Nuget
+[Nuget](http://blog.csdn.net/guodongxiaren "Nuget")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-PostSharp
+[PostSharp](http://blog.csdn.net/guodongxiaren "PostSharp")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-redis-setup
+[redis-setup](http://blog.csdn.net/guodongxiaren "redis-setup")
 --
-[TortoiseGit-LanguagePack](http://blog.csdn.net/guodongxiaren "TortoiseGit-LanguagePack")
-redis-desktop-manager
+[redis-desktop-manager](http://blog.csdn.net/guodongxiaren "redis-desktop-manager")
 --
 [JetBrains.ReSharperUltimate](http://blog.csdn.net/guodongxiaren "JetBrains.ReSharperUltimate")
-JetBrains.ReSharperUltimate
 --
 [SublimeText-Nodejs](http://blog.csdn.net/guodongxiaren "SublimeText-Nodejs")
-SublimeText-Nodejs
 --
 [essentialqtpaddonsetup](http://blog.csdn.net/guodongxiaren "essentialqtpaddonsetup")
-essentialqtpaddonsetup
 --
 [syncfusionmetrostudiosetup](http://blog.csdn.net/guodongxiaren "syncfusionmetrostudiosetup")
-syncfusionmetrostudiosetup
 --
 [VSCodeSetup](http://blog.csdn.net/guodongxiaren "VSCodeSetup")
-VSCodeSetup
 --
